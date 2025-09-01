@@ -510,3 +510,35 @@ p.section-subtitle {
     font-size: 13px;
     color: #aaa;
 }
+
+.faq {
+  padding: 4rem 1rem;
+  background: #f9fafb;
+}
+
+.faq-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.faq-item {
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+}
+
+.faq-question {
+  cursor: pointer;
+  font-size: 1.1rem;
+  position: relative;
+}
+
+.faq-answer {
+  display: none;
+  margin-top: 0.5rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.faq-item.active .faq-answer {
+  display: block;
+}
