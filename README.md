@@ -46,7 +46,7 @@ project-folder/
 ## 📬 Contact
 👨‍💻 **Akash Kumar – Freelance Web Developer**  
 📧 Email: akashrammilan22@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+💼 LinkedIn: ([https://www.linkedin.com/in/akash-ram-milan-872b14381/])
 
 ---
 
